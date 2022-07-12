@@ -1,0 +1,18 @@
+# *
+User-agent: *
+Disallow: /secret
+
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Allow: /ships
+
+# Host
+Host: http://localhost:3000
+
+# Sitemaps
+Sitemap: http://localhost:3000/sitemap.xml
+Sitemap: http://localhost:3000/server-sitemap.xml
